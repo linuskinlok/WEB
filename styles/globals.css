@@ -1,0 +1,12 @@
+body {
+    overflow-y: scroll;
+}
+
+footer {
+    width: 50vw;
+    display: flex;
+    justify-content: flex-start;
+    padding-inline-start: 535px;
+    align-items: center;
+
+}
