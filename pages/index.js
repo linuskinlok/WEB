@@ -82,7 +82,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
+
           <span>
             <br />
             
