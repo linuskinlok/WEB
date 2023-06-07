@@ -46,7 +46,7 @@ export default function MainNav() {
         expand="lg"
       >
         <Container>
-          <Navbar.Brand>Aaron John Bivera ⚡️</Navbar.Brand>
+          <Navbar.Brand>Linus Chan</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={toggle} />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">

@@ -15,9 +15,6 @@ export default function Home() {
       <main>
         <h1>Home</h1>
         <Row>
-          <Col>
-            <Image src="/batman.svg" rounded />
-          </Col>
         </Row>
         <Row>
           <Col>
@@ -88,12 +85,7 @@ export default function Home() {
           Powered by{" "}
           <span>
             <br />
-            <Image
-              src="/superman.svg"
-              alt="Superman Logo"
-              width={90}
-              height={75}
-            />
+            
           </span>
         </a>
       </footer>
